@@ -1,5 +1,0 @@
-baseURL = "https://elliotmillington.github.io"
-languageCode = "en-us"
-title = "Elliot Millington - Personal Site"
-theme = "ananke"
-publishDir = "docs"
