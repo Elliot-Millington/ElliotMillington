@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests centre around autism, specificially how the senses and anxiety interact with each other. I am also interested in psychometrics and using Virtual Reality in research.
+bio: I am a postgraduate research student at the University of Glasgow where I am completing a PhD funded by the ESRC/SGSSS and supervised by Dr David Simmons and Dr Neil McDonnell. My research interests centre around autism, specificially how the senses and anxiety interact with each other. I am also interested in psychometrics and using Virtual Reality in research.
 
 interests:
 - Anxiety and Sensory Experiences

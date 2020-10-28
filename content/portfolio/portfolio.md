@@ -11,9 +11,7 @@ subtitle = ""
   page_type = "project"
 
 [design]
-  columns = "2"
-  view = 5
-  flip_alt_rows = true
+  columns = "1"
+  view = 3
+#  flip_alt_rows = true
 +++
-
-These projects are the result of my life's work.
