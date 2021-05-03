@@ -5,7 +5,7 @@
     <link>https://elliotmillington.github.io/</link>
       <atom:link href="https://elliotmillington.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Elliot Millington</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 19:14:27 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 May 2021 10:58:27 +0100</lastBuildDate>
     <image>
       <url>https://elliotmillington.github.io/images/icon_hu1c6436ea0a3d4bbf86936c0b03a04d16_61091_512x512_fill_lanczos_center_2.png</url>
       <title>Elliot Millington</title>
@@ -114,7 +114,15 @@
     </item>
     
     <item>
-      <title>Childrens Glasgow Sensory Questionnaire Validation of a Simplified and Visually Aided Questionnaire</title>
+      <title>Using Hmd Investigate Visual Processing</title>
+      <link>https://elliotmillington.github.io/publication/using-hmd-investigate-visual-processing/</link>
+      <pubDate>Sun, 02 May 2021 10:58:27 +0100</pubDate>
+      <guid>https://elliotmillington.github.io/publication/using-hmd-investigate-visual-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children’s Glasgow Sensory Questionnaire (C-GSQ): Validation of a Simplified and Visually Aided Questionnaire</title>
       <link>https://elliotmillington.github.io/publication/cgsq-validation-of-a-simplified-and-visually-aided-questionnaire/</link>
       <pubDate>Tue, 27 Apr 2021 19:14:27 +0100</pubDate>
       <guid>https://elliotmillington.github.io/publication/cgsq-validation-of-a-simplified-and-visually-aided-questionnaire/</guid>
@@ -156,7 +164,7 @@
     </item>
     
     <item>
-      <title>Portfolio</title>
+      <title>Projects</title>
       <link>https://elliotmillington.github.io/portfolio/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://elliotmillington.github.io/portfolio/</guid>

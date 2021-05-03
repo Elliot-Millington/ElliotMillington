@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil McDonnell | Elliot Millington</title>
+    <link>https://elliotmillington.github.io/author/neil-mcdonnell/</link>
+      <atom:link href="https://elliotmillington.github.io/author/neil-mcdonnell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neil McDonnell</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 May 2021 10:58:27 +0100</lastBuildDate>
+    <image>
+      <url>https://elliotmillington.github.io/images/icon_hu1c6436ea0a3d4bbf86936c0b03a04d16_61091_512x512_fill_lanczos_center_2.png</url>
+      <title>Neil McDonnell</title>
+      <link>https://elliotmillington.github.io/author/neil-mcdonnell/</link>
+    </image>
+    
+    <item>
+      <title>Using Hmd Investigate Visual Processing</title>
+      <link>https://elliotmillington.github.io/publication/using-hmd-investigate-visual-processing/</link>
+      <pubDate>Sun, 02 May 2021 10:58:27 +0100</pubDate>
+      <guid>https://elliotmillington.github.io/publication/using-hmd-investigate-visual-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
